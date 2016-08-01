@@ -90,3 +90,11 @@
 - [Ajax Intro](http://haoduoshipin.com/v/197)
 - http://haoqicat.com/meteor-express-ajax
 - http://haoqicat.com/webpack-react-mole
+
+# 7.30 afternoon: Axios
+
+- form
+- json
+- HTTP request + HTTP response
+- request = verb + url + data
+            get  + baidu.com   
